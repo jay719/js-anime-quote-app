@@ -1,0 +1,16 @@
+.home-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex: 0.3;
+  outline-color: aqua;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  width: 100%;
+  margin-bottom: 10px;
+}
+.search-bar {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
